@@ -1,7 +1,7 @@
 {
-	"name": "aimeos/sw-admin-ui",
-	"description": "Aimeos sw-admin-ui extension",
-	"keywords": ["aimeos", "extension"],
+	"name": "swordbros/sw-admin-ui",
+	"description": "Aimeos Swordbros sw-admin-ui extension",
+	"keywords": ["aimeos", "extension", "swordbros"],
 	"type": "aimeos-extension",
 	"license": "LGPL-3.0",
 	"prefer-stable": true,
