@@ -1,0 +1,22 @@
+{
+	"projectName": "sw-admin-ui",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "sw-admin-ui CSS",
+		"file": "sw-admin-ui.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "sw-admin-ui JS",
+		"file": "sw-admin-ui.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/"
+		}]
+	}],
+	"resources" : []
+}
